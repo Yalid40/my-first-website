@@ -1,0 +1,61 @@
+body {
+
+  background: rgb(148, 206, 206);
+
+ }
+
+
+h1, h2, h3, h4, h5, h6{
+  font-family: 'Oswald', serif;
+}
+
+
+header a {
+  font-family: 'oswald';
+  font-weight: 1000;
+  font-size: 42px;
+  color: black;
+  opacity: .7;
+
+}
+
+header a:hover {
+  color: black;
+}
+.jumbotron{
+  margin-top: 20px;
+}
+
+.font-weight-bold{
+  color: White;
+}
+
+.font-weight-bold:hover{
+  color: White;
+}
+
+.jumbotron{
+  background-image: url(image/1.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.col-md-6{
+  border-radius: 10;
+}
+
+.blog-post{
+  margin-bottom: 50px;
+
+}
+
+.blog-post h2{
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+footer{
+  background: #c3dfe4;
+  padding-bottom: 30px;
+  padding-top: 30px;;
+}
